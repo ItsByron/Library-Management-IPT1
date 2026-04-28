@@ -39,7 +39,6 @@
 
   <button class="btn-signup" onclick="goToSignup()">Create Account</button>
 
-  <p class="hint">Default: admin / admin123</p>
 </div>
 <script src="assets/toast.js"></script>
 <script src="assets/login.js"></script>
